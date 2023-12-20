@@ -1,6 +1,5 @@
 # StTextAi
 
-
 An app that uses gpt 3.5 turbo to perform tasks including summarising, translating, and rewriting. The UI is made by Streamlit.
 
 **Learning:**

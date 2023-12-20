@@ -2,7 +2,6 @@ import streamlit as st
 from openai import OpenAI
 
 
-
 # Base knowledge for chatbot
 f = open("textBotData.txt", "r", encoding="utf-8")
 data = f.read()
